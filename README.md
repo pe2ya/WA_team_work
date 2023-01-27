@@ -1,4 +1,7 @@
-
+Kubík (Kapitán) - Grafik/Designer (Design, HTML+CSS coding, image processing)
+Petii - Developer/Server admin/DevOps (Database, Programming, Server administrator)
+Sochůrek - Developer/Server admin/DevOps (Database, Programming, Server administrator)
+Šperka - Quality assurance/Tester (Unit test writer, Tester, etc.)
 
 Vytvořit github
 Vytvořit komunikaci mezi členy
@@ -59,7 +62,3 @@ Vytvořit komunikaci mezi členy
 - sepsat guide pro používání API
 - sepsat hodnocení týmu 
 - sepsat časový harmonogram
-
-
-
-
