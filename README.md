@@ -1,7 +1,7 @@
 Kubík (Kapitán) - Grafik/Designer (Design, HTML+CSS coding, image processing)
 Petii - Developer/Server admin/DevOps (Database, Programming, Server administrator)
 Sochůrek - Developer/Server admin/DevOps (Database, Programming, Server administrator)
-Šperka - Quality assurance/Tester (Unit test writer, Tester, etc.)
+Šperka - Quality assurance/Tester (Unit test writer, Tester, etc.) Developer/Server admin/DevOps (Database, Programming, Server administrator) Grafik/Designer (Design, HTML+CSS coding, image processing)
 
 Vytvořit github
 Vytvořit komunikaci mezi členy
@@ -51,7 +51,7 @@ Vytvořit komunikaci mezi členy
 
 
 4. Dokumentace
-- welcome party
+- welcome party - Hotovo
 - napsat očem program je
 - napsat o funkcionalitě webu
 - popsat práci programátora
