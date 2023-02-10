@@ -21,10 +21,10 @@ Vytvořit komunikaci mezi členy
 
 
 2. Designe
-- navrhnout designe
+- navrhnout designe - HOTOVO
 - rozdělit program na jednotlivé části podle funkcionality
 - otestovat designe spojený s programem 
-- udělat wireframe
+- udělat wireframe - HOTOVO
 - vytvořit designe pro časovač
 - vytvořit designe pro tlačítka
 - vytvořit designe pro zaškrtávací pole 
@@ -51,7 +51,7 @@ Vytvořit komunikaci mezi členy
 
 
 4. Dokumentace
-- welcome party - Hotovo
+- welcome party - HOTOVO
 - napsat očem program je
 - napsat o funkcionalitě webu
 - popsat práci programátora
