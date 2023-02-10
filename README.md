@@ -21,10 +21,10 @@ Vytvořit komunikaci mezi členy
 
 
 2. Designe
-- navrhnout designe - HOTOVO
+- navrhnout designe - HOTOVO Kubík
 - rozdělit program na jednotlivé části podle funkcionality
 - otestovat designe spojený s programem 
-- udělat wireframe - HOTOVO
+- udělat wireframe - HOTOVO Kubík
 - vytvořit designe pro časovač
 - vytvořit designe pro tlačítka
 - vytvořit designe pro zaškrtávací pole 
