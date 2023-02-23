@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Ty bát se muset!</title>
+
+  <link rel="stylesheet" href="http://wa.kevizb.cz/style.css">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+    integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  <link rel="icon" type="image/x-icon" href="/vendor/img/favicon.ico">
+
+</head>
+
+<body class="d-flex flex-column min-vh-100 bg-secondary">
+
+  <video autoplay muted loop id="video">
+    <source
+      src="https://download-video.akamaized.net/2/playback/9fbb6600-271d-470a-8b31-3989eabcb530/26b1b4e4?__token__=st=1677175671~exp=1677190071~acl=%2F2%2Fplayback%2F9fbb6600-271d-470a-8b31-3989eabcb530%2F26b1b4e4%2A~hmac=44fd706cdef93dcdece2ee729c420b238ae13c0180476e9a8caba268e7dee4d3&r=dXM%3D"
+      type="video/mp4">
+  </video>
+
+  <div class="month">
+
+
+    <h1>Maturita přichází za:
+    </h1>
+    <div class="container">
+
+      <div class="container-segment">
+        <div class="segment-title">Dny</div>
+        <div class="segment">
+          <div class="flip-card" data-days-tens>
+            <div class="top">9</div>
+            <div class="bottom">9</div>
+          </div>
+          <div class="flip-card" data-days-ones>
+            <div class="top">9</div>
+            <div class="bottom">9</div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="container-segment">
+        <div class="segment-title">Hodiny</div>
+        <div class="segment">
+          <div class="flip-card" data-hours-tens>
+            <div class="top">2</div>
+            <div class="bottom">2</div>
+          </div>
+          <div class="flip-card" data-hours-ones>
+            <div class="top">4</div>
+            <div class="bottom">4</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container-segment">
+        <div class="segment-title">Minuty</div>
+        <div class="segment">
+          <div class="flip-card" data-minutes-tens>
+            <div class="top">5</div>
+            <div class="bottom">5</div>
+          </div>
+          <div class="flip-card" data-minutes-ones>
+            <div class="top">9</div>
+            <div class="bottom">9</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container-segment">
+        <div class="segment-title">Sekundy</div>
+        <div class="segment">
+          <div class="flip-card" data-seconds-tens>
+            <div class="top">5</div>
+            <div class="bottom">5</div>
+          </div>
+          <div class="flip-card" data-seconds-ones>
+            <div class="top">9</div>
+            <div class="bottom">9</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br>
+  <br>
+
+  <main class="container">
+    <?php $this->controller->renderView(); ?>
+  </main>
+
+
+  <br>
+
+  <footer class="mt-auto text-center footer">
+
+    <hr style="color: whitesmoke;border-bottom: 1px solid whitesmoke;max-width: 98%;">
+
+    <div>
+      <p style="color: white;font-size: 15px;">© 2023, Kubík, Sochůrek, Šperka</p>
+    </div>
+
+    <p></p>
+
+  </footer>
+
+  <script src="/vendor/js/script.js"></script>
+  <script src="https://cdn.jsdetdvr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>
