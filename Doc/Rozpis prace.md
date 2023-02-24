@@ -1,6 +1,6 @@
 # Rozpis práce
 
-#### Kubík
+### Kubík
 - Wireframe webu
 - Návrh stránky pc
 - Návrh kalendář
@@ -9,7 +9,7 @@
 - CSS
 - Návrh designu 
 
-#### Sochůrek
+### Sochůrek
 - Úprava CSS
 - Timer 
 - Nasazení na web 
@@ -17,7 +17,7 @@
 - PHP backend
 - Vyskakovací okno po najetí na datum a zobrazení co je v daný den (Tooltip)
 
-#### Šperka
+### Šperka
 - Finální CSS
 - Oprava Footeru
 - Testy
@@ -25,7 +25,7 @@
 - 1. Test - nefunkční zatmavení políček (opraveno)
 - 2. Test - finální test funkčnosti stránky
 
-#### Petii
+### Petii
 - Timer který jsme nevyužili odeslán příliš pozdě
-- **Nekomunikoval** s teamem
+- <ins>**Nekomunikoval**</ins> s teamem
 - Nepřítomnost na meetingových setkáních
