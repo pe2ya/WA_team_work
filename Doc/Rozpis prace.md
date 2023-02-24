@@ -1,5 +1,4 @@
-Kubík
-
+#Kubík
 Wireframe webu
 Návrh stránky pc
 Návrh kalendář
@@ -8,23 +7,23 @@ HTML
 CSS
 Návrh designu 
 
-Sochůrek
-
+#Sochůrek
 Úprava CSS 
 Timer 
 Nasazení na web 
 Html
-backend 
-Vyskakovací okno po najetí na datum a zobrazení co je v daný den 
+PHP backend
+Vyskakovací okno po najetí na datum a zobrazení co je v daný den (Tooltip)
 
-Šperka
-
+#Šperka
+Finální CSS
+Oprava Footeru
 Testy
 Responze 
-1. Test - nefunkční zatmavení políček (praveno)
+1. Test - nefunkční zatmavení políček (opraveno)
+2. Test - finální test funkčnosti stránky
 
-
-
-
-Petii
+#Petii
 Timer který jsme nevyužili odeslán příliš pozdě
+Nekomunikoval s teamem
+Nepřítomnost na meetingových setkáních
