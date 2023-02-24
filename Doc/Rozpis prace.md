@@ -30,3 +30,5 @@
 - <ins>**Nekomunikoval**</ins> s teamem
 - Nepřítomnost na meetingových setkáních
 - Nemoc
+
+Odhadovaná cena 4000Kč
